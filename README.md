@@ -1,4 +1,4 @@
-# Image-Processing-based-Embedded-Security-System
+# ESP32 usage and functionality files
 
 These are set of files for developing IoT based firmware for ESP32 using IDF (IoT Development Framework) provided by espressif. The files were rusty, definitely need to look :()<br />
 Most of the files are self explanatory and feasibly understandable by mid level experienced embedded C programmer. Contents from basic GPIO testing to WIFI and Bluetooth Mesh were available. 
